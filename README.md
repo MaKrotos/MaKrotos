@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaKrotos&theme=tokyonight&exclude_days=Tue&card_width=400)](https://git.io/streak-stats) ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=makrotos&card_width=400&show_icons=true&theme=tokyonight) 
 <!--
 **MaKrotos/MaKrotos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

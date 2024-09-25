@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=MaKrotos&theme=tokyonight&exclude_days=Tue&card_width=400)](https://git.io/streak-stats) ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=makrotos&show_icons=true&theme=tokyonight) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaKrotos&theme=tokyonight&exclude_days=Tue&card_width=400)](https://git.io/streak-stats) ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=makrotos&card_width=400&show_icons=true&theme=tokyonight) 
 <!--
 **MaKrotos/MaKrotos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

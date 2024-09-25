@@ -1,6 +1,6 @@
 
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=makrotos&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=35)  
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=makrotos&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=835)  
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=makrotos&card_width=400&card_height=300&show_icons=true&theme=tokyonight) [![GitHub Streak](https://streak-stats.demolab.com?user=MaKrotos&theme=tokyonight&exclude_days=Tue&card_width=400)](https://git.io/streak-stats)
 <!--

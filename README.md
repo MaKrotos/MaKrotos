@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaKrotos&theme=tokyonight&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 <!--
 **MaKrotos/MaKrotos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
